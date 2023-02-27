@@ -146,8 +146,6 @@ weighted avg       0.88      0.87      0.87     10000
 ```python
 python gnerate_auo_regression.py
 
-D:\software\anaconda3\envs\keras_classification\python.exe D:/flow/CAIL/transformer/generate_auto_regression.py
-./checkpoints/gen_model.pt
 开头：“咳，咳咳”眼瞳猛然睁开，萧炎急忙低下头
 真实：“咳，咳咳”眼瞳猛然睁开，萧炎急忙低下头剧烈的咳嗽着，半晌后，方才脸色涨红的抬起来头来，望着身后那正端着一碗清水，表情有些不知所措的云芝，嘴角微微抽搐，苦笑道：“你成心把我呛死是吧”
 生成：“咳，咳咳”眼瞳猛然睁开，萧炎急忙低下头来看，手掌一把抓住了一个小小的玉瓶，顿时，一股股极为恐怖的劲力，将之渲染得犹如一个玉般，将之上的一团团团团团团团团团团团团团团团团团团团团团，尽数包裹而进。<eos>
