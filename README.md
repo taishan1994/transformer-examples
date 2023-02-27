@@ -202,3 +202,6 @@ D:\software\anaconda3\envs\keras_classification\python.exe D:/flow/CAIL/transfor
 
 效果不是很好，毕竟构建的模型不是很大。
 
+# 参考
+
+> [A PyTorch implementation of the Transformer model in "Attention is All You Need"](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
